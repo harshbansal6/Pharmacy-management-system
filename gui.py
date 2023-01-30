@@ -6,10 +6,10 @@ from tkinter import messagebox
 from tkinter.ttk import Entry
 
 
-class Pharmacymanagementsystem:
+class studentperformanceprediction :
     def __init__(self,root):
         self.root=root
-        self.root.title("Pharmacy Management System")
+        self.root.title('students performance prediction ")
         self.root.geometry("1300x800+0+0")
         self.root.iconbitmap("New folder\IMAGES\ICON.ico")
 
